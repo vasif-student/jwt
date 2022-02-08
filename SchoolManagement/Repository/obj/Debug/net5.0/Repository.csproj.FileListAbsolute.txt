@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\bin\Debug\net5.0\DomainModels.dll
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\bin\Debug\net5.0\DomainModels.pdb
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\HP\Desktop\WebApi\SchoolManagement\Repository\obj\Debug\net5.0\Repository.pdb
